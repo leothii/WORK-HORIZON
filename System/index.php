@@ -20,7 +20,7 @@ include 'constants/check-login.php';
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="500" />
     <meta property="og:image:height" content="300" />
-    <meta property="og:image:alt" content="Nightingale Jobs" />
+    <meta property="og:image:alt" content="WORK-HORIZON" />
     <meta property="og:description" content="Online Job Management / Job Portal" />
 
 	<link rel="shortcut icon" href="images/favicon.png">
@@ -161,7 +161,7 @@ include 'constants/check-login.php';
 
 		<div class="main-wrapper">
 		
-			<div class="hero" style="background-image:url('images/hero-header/CCS222.png');">
+			<div class="hero" style="background-image:url('images/CCS222.png');">
 				<div class="container">
 
 					<h1>at	WORK-HORIZON</h1>

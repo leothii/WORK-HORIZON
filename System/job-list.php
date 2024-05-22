@@ -509,49 +509,7 @@ $title = "Job List";
 
 			<footer class="footer-wrapper">
 			
-				<div class="main-footer">
 				
-					<div class="container">
-					
-						<div class="row">
-						
-							<div class="col-sm-12 col-md-9">
-							
-								<div class="row">
-								
-									<div class="col-sm-6 col-md-4">
-									
-										<div class="footer-about-us">
-											<h5 class="footer-title">About</h5>
-											<p>WORK-HORIZON is a job portal, online job management system developed as final project for CSS222.</p>
-										
-										</div>
-
-									</div>
-									
-									
-
-								</div>
-
-							</div>
-							
-							<div class="col-sm-12 col-md-3 mt-30-sm">
-							
-								<h5 class="footer-title">Contacts</h5>
-								
-								<p>Address :Iloilo City 5000</p>
-								<p>Email : <a href="mailto:work-horizon@gmail.com">work-horizon@gmail.com</a></p>
-								<p>Phone : <a href="tel:+639777305075">+639 777 305 075</a></p>
-								
-
-							</div>
-
-							
-						</div>
-						
-					</div>
-					
-				</div>
 				
 				<div class="bottom-footer">
 				

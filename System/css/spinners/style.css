@@ -152,10 +152,9 @@ ul.nav-mini.sign-in li a {
 
 ul.nav-mini.sign-in li a:hover {
     color: #FFF;
-    background: #2991A2;
-    border-color: #2991A2;
+    background: #337ab7;
+    border-color: #337ab7;
 }
-
 .nav.navbar-nav {
     text-align: center;
     float: none;

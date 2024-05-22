@@ -230,7 +230,7 @@ include 'constants/check-login.php';
 							<ul class="address-list">
 								<li>
 										<h5>Address</h5>
-										<address> Lapaz <br/> Iloilo City 5000 <br/>School Junction</address>
+										<address> Lapaz <br/> Iloilo City 5000 <br/>Philippines</address>
 								</li>
 								<li>
 										<h5>Email</h5><a href="mailto:work-horizon@gmail.com">work-horizon@gmail.com</a>

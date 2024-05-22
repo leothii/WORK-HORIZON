@@ -148,7 +148,7 @@ $page = 1;
 				<div class="container">
 				
 					<ol class="breadcrumb-list booking-step">
-						<li><a href="../">Nightingale Jobs</a></li>
+						<li><a href="../">Home</a></li>
 						<li><span>Academic Qualifications</span></li>
 					</ol>
 					

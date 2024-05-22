@@ -125,10 +125,6 @@ include 'constants/check-login.php';
 							</li>
 							
 							<li>
-								<a href="employees.php">Employees</a>
-							</li>
-							
-							<li>
 								<a href="contact.php">Contact Us</a>
 							</li>
 
@@ -336,24 +332,16 @@ include 'constants/check-login.php';
 									<div class="col-sm-6 col-md-4">
 									
 										<div class="footer-about-us">
-											<h5 class="footer-title">About Nightingale Jobs</h5>
-											<p>WORK-HORIZON is a job portal, online job management system.</p>
+											<h5 class="footer-title">About</h5>
+											<p>WORK-HORIZON is a job portal, online job management system developed as final project for CSS222..</p>
 										
 										</div>
 
 									</div>
 									
 									<div class="col-sm-6 col-md-5 mt-30-xs">
-										<h5 class="footer-title">Quick Links</h5>
-										<ul class="footer-menu clearfix">
-											<li><a href="./">Home</a></li>
-											<li><a href="job-list.php">Job List</a></li>
-											<li><a href="employers.php">Employers</a></li>
-											<li><a href="employees.php">Employees</a></li>
-											<li><a href="contact.php">Contact Us</a></li>
-											<li><a href="#">Go to top</a></li>
-
-										</ul>
+										
+										
 									
 									</div>
 
@@ -363,11 +351,11 @@ include 'constants/check-login.php';
 							
 							<div class="col-sm-12 col-md-3 mt-30-sm">
 							
-								<h5 class="footer-title">WORK-HORIZON Jobs Contact</h5>
+								<h5 class="footer-title">Contacts</h5>
 								
 								<p>Address : Lapaz, Iloilo City 5000</p>
-								<p>Email : <a href="mailto:nightingale.nath2@gmail.com">work.horizon@gmail.com</a></p>
-								<p>Phone : <a href="tel:+233546607474">+639 777 305 075</a></p>
+								<p>Email : <a href="mailto:work-horizon@gmail.com">work.horizon@gmail.com</a></p>
+								<p>Phone : <a href="tel:+639777305075">+639 777 305 075</a></p>
 								
 
 							</div>
@@ -387,15 +375,13 @@ include 'constants/check-login.php';
 						
 							<div class="col-sm-4 col-md-4">
 					
-								<p class="copy-right">&#169; Copyright <?php echo date('Y'); ?> Nightingale Vision Software</p>
+								<p class="copy-right">&#169; Copyright <?php echo date('Y'); ?>WORK-HORIZON INC.</p>
 								
 							</div>
 							
 							<div class="col-sm-4 col-md-4">
 							
-								<ul class="bottom-footer-menu">
-									<li><a >Developed by Nathaniel Nkrumah</a></li>
-								</ul>
+							
 							
 							</div>
 							
